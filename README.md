@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GusDamian&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusDamian&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusDamian04&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
 </p>
 
 ---
